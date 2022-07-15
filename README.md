@@ -1,7 +1,7 @@
 # sq
 context recipes
 
-## Testing Firefox
+## DOM Testing and Analysis Firefox
 
 ### install Firefox and Node
 
