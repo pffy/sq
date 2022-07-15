@@ -15,8 +15,8 @@ context recipes
 
 ### In any folder in home directory:
 
-**Install NodeJS** 
+**Install Selenium WebDriver** 
 :-- 
-`$ npm i -D selenium-webdriver selenium`
+`$ npm i -D selenium-webdriver`
 
 
