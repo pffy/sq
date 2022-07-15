@@ -1,14 +1,22 @@
 # sq
 context recipes
 
-## Testing in Firefox
+## Testing Firefox
 
-```
-$ apt install firefox-esr
-$ apt install npm
-```
+### install Firefox and Node
 
-In any folder in home directory:
-```
-$ apt install -D selenium-webdriver selenium
-```
+**Install FIrefox** 
+:-- 
+`$ apt install firefox-esr`
+
+**Install NodeJS** 
+:-- 
+`$ apt install npm`
+
+### In any folder in home directory:
+
+**Install NodeJS** 
+:-- 
+`$ npm i -D selenium-webdriver selenium`
+
+
